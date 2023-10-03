@@ -2,5 +2,5 @@
 
 Basic Backend clone of Twitter. 
 - Register/ Sign in/ Sign out
-- Follow/ Unfollow
+- Follow/ Unfollow user
 - Tweet (CRUD)
